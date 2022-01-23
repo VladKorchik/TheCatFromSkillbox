@@ -1,4 +1,4 @@
-package ru.skillbox;
+package ru.skillbox.model.animal;
 
 public enum AnimalColour {
     BLACK,
